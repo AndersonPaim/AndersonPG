@@ -1,0 +1,4 @@
+﻿  SceneManager.cpp
+C:\Users\Jose Carlos\Desktop\PG20202-master\PG20202-master\Framework-PG\Framework-PG\SceneManager.cpp(113,23): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Jose Carlos\Desktop\PG20202-master\PG20202-master\Framework-PG\Framework-PG\SceneManager.cpp(131,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  Framework-PG.vcxproj -> C:\Users\Jose Carlos\Desktop\PG20202-master\PG20202-master\Transformacoes\Debug\Framework-PG.exe
